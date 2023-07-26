@@ -1,0 +1,54 @@
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Gestion de Vente.exe.config
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion de Vente.csprojResolveAssemblyReference.cache
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion_de_Vente.Properties.Resources.resources
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion de Vente.csproj.GenerateResource.Cache
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Gestion de Vente.exe
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Gestion de Vente.pdb
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\MySql.Data.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Google.Protobuf.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\ZstdNet.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\K4os.Compression.LZ4.Streams.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Ubiety.Dns.Core.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\System.Buffers.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\K4os.Compression.LZ4.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\K4os.Hash.xxHash.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu_UI_v1.5.3.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\MySql.Data.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion de Vente.csproj.Gestion de Vente.exe.config
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion_de_Vente.form.principal.resources
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion de Vente.exe
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion de Vente.pdb
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion_de_Vente.form.client.resources
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion_de_Vente.form.ajout_modif_client.resources
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion_de_Vente.form.produit.resources
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion_de_Vente.form.ajout_modif_produit.resources
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion_de_Vente.form.ajout_modif_commande.resources
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion_de_Vente.form.commande.resources
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion_de_Vente.form.loginForm.resources
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+c:\users\antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Debug\Gestion_de_Vente.form.utilisateur.resources

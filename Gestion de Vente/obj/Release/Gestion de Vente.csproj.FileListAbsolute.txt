@@ -1,0 +1,166 @@
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Gestion de Vente.exe.config
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Gestion de Vente.exe
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Gestion de Vente.pdb
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\MySql.Data.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Google.Protobuf.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\ZstdNet.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\System.Buffers.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu_UI_v1.5.3.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\MySql.Data.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.csprojResolveAssemblyReference.cache
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.csproj.Gestion de Vente.exe.config
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.ajout_modif_client.resources
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.ajout_modif_commande.resources
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.ajout_modif_produit.resources
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.client.resources
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.commande.resources
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.loginForm.resources
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.principal.resources
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.produit.resources
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.utilisateur.resources
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.Properties.Resources.resources
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.csproj.GenerateResource.Cache
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.exe
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.pdb
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.Dialogue.resources
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\itextsharp.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\itextsharp.pdfa.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\itextsharp.xtra.dll
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\bin\Release\itextsharp.xml
+C:\Users\Antsivaniaina\documents\visual studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.formpassephrase.resources
+C:\Users\Antsivaniaina\Documents\Visual Studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.clientuser.resources
+C:\Users\Antsivaniaina\Documents\Visual Studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.commandeuser.resources
+C:\Users\Antsivaniaina\Documents\Visual Studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.principaluser.resources
+C:\Users\Antsivaniaina\Documents\Visual Studio 2015\Projects\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.produituser.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Gestion de Vente.exe.config
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.exe
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.pdb
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Gestion de Vente.exe
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Gestion de Vente.pdb
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\itextsharp.dll
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\itextsharp.pdfa.dll
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\itextsharp.xtra.dll
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\MySql.Data.dll
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Google.Protobuf.dll
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\ZstdNet.dll
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\BouncyCastle.Crypto.dll
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Ubiety.Dns.Core.dll
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\System.Buffers.dll
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\K4os.Compression.LZ4.dll
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\K4os.Hash.xxHash.dll
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuButton.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuPages.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu_UI_v1.5.3.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\itextsharp.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\MySql.Data.xml
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.csprojResolveAssemblyReference.cache
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.csproj.Gestion de Vente.exe.config
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.ajout_modif_client.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.ajout_modif_commande.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.ajout_modif_produit.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.client.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.commande.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.Dialogue.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.formpassephrase.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.loginForm.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.principal.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.produit.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.utilisateur.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.Properties.Resources.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.clientuser.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.commandeuser.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.principaluser.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.produituser.resources
+D:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.csproj.GenerateResource.Cache
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Gestion de Vente.exe.config
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.exe
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.pdb
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Gestion de Vente.exe
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Gestion de Vente.pdb
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\itextsharp.dll
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\itextsharp.pdfa.dll
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\itextsharp.xtra.dll
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\MySql.Data.dll
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Google.Protobuf.dll
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\ZstdNet.dll
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\K4os.Compression.LZ4.Streams.dll
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\BouncyCastle.Crypto.dll
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Ubiety.Dns.Core.dll
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\System.Buffers.dll
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\K4os.Compression.LZ4.dll
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\K4os.Hash.xxHash.dll
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuButton.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuLabel.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuPages.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuTextbox.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu.UI.WinForms.BunifuTransition.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\Bunifu_UI_v1.5.3.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\itextsharp.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\bin\Release\MySql.Data.xml
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.csprojResolveAssemblyReference.cache
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.csproj.Gestion de Vente.exe.config
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.ajout_modif_client.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.ajout_modif_commande.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.ajout_modif_produit.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.client.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.commande.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.Dialogue.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.formpassephrase.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.loginForm.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.principal.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.produit.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.utilisateur.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.Properties.Resources.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.clientuser.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.commandeuser.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.principaluser.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion_de_Vente.form.produituser.resources
+G:\ENI (Ecole Nationale d'Informatique)\L2 IG ENI 2021\PROJET\Gestion de Vente\Gestion de Vente\obj\Release\Gestion de Vente.csproj.GenerateResource.Cache

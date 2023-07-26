@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A3B10B7-1EE0-4FAE-9A88-BAB7A557DA1F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Gestion_de_Vente</RootNamespace>
+    <AssemblyName>Gestion de Vente</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Core, Version=1.11.5.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9" />
+    <Reference Include="Bunifu.UI.WinForm.BunifuShadowPanel">
+      <HintPath>..\..\ProjetCsharp\packages\Doload.org_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForm.BunifuShadowPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\..\ProjetCsharp\packages\Doload.org_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDataGridView">
+      <HintPath>..\..\ProjetCsharp\packages\Doload.org_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker">
+      <HintPath>..\..\ProjetCsharp\packages\Doload.org_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown">
+      <HintPath>..\..\ProjetCsharp\packages\Doload.org_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuFormDock">
+      <HintPath>..\..\ProjetCsharp\packages\Doload.org_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuFormDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuImageButton">
+      <HintPath>..\..\ProjetCsharp\packages\Doload.org_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>..\..\ProjetCsharp\packages\Doload.org_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPages">
+      <HintPath>..\..\ProjetCsharp\packages\Doload.org_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox">
+      <HintPath>..\..\ProjetCsharp\packages\Doload.org_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>..\..\ProjetCsharp\packages\Doload.org_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTransition">
+      <HintPath>..\..\ProjetCsharp\packages\Doload.org_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\ProjetCsharp\packages\Doload.org_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\iTextsharp\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>..\iTextsharp\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>..\iTextsharp\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 8.0.28\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classe\classeadmin.cs" />
+    <Compile Include="classe\classeclient.cs" />
+    <Compile Include="classe\classecommande.cs" />
+    <Compile Include="classe\classefacture.cs" />
+    <Compile Include="classe\classeproduit.cs" />
+    <Compile Include="classe\classeuser.cs" />
+    <Compile Include="form\ajout_modif_client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ajout_modif_client.Designer.cs">
+      <DependentUpon>ajout_modif_client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ajout_modif_commande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ajout_modif_commande.Designer.cs">
+      <DependentUpon>ajout_modif_commande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ajout_modif_produit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ajout_modif_produit.Designer.cs">
+      <DependentUpon>ajout_modif_produit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\client.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="form\client.Designer.cs">
+      <DependentUpon>client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\commande.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="form\commande.Designer.cs">
+      <DependentUpon>commande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Dialogue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Dialogue.Designer.cs">
+      <DependentUpon>Dialogue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\formpassephrase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\formpassephrase.Designer.cs">
+      <DependentUpon>formpassephrase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\loginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\loginForm.Designer.cs">
+      <DependentUpon>loginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\principal.Designer.cs">
+      <DependentUpon>principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\produit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="form\produit.Designer.cs">
+      <DependentUpon>produit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\utilisateur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="form\utilisateur.Designer.cs">
+      <DependentUpon>utilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User View\clientuser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User View\clientuser.Designer.cs">
+      <DependentUpon>clientuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User View\commandeuser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User View\commandeuser.Designer.cs">
+      <DependentUpon>commandeuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User View\principaluser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User View\principaluser.Designer.cs">
+      <DependentUpon>principaluser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User View\produituser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User View\produituser.Designer.cs">
+      <DependentUpon>produituser.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="form\ajout_modif_client.resx">
+      <DependentUpon>ajout_modif_client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ajout_modif_commande.resx">
+      <DependentUpon>ajout_modif_commande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ajout_modif_produit.resx">
+      <DependentUpon>ajout_modif_produit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\client.resx">
+      <DependentUpon>client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\commande.resx">
+      <DependentUpon>commande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Dialogue.resx">
+      <DependentUpon>Dialogue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\formpassephrase.resx">
+      <DependentUpon>formpassephrase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\loginForm.resx">
+      <DependentUpon>loginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\principal.resx">
+      <DependentUpon>principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\produit.resx">
+      <DependentUpon>produit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\utilisateur.resx">
+      <DependentUpon>utilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="User View\clientuser.resx">
+      <DependentUpon>clientuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User View\commandeuser.resx">
+      <DependentUpon>commandeuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User View\principaluser.resx">
+      <DependentUpon>principaluser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User View\produituser.resx">
+      <DependentUpon>produituser.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_apple_logo_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_buying_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_circled_menu_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_clothes_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_download_32px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_edit_file_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_macos_close_20px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_macos_full_screen_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_macos_minimize_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_mail_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_pdf_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_phone_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_region_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_remove_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_save_as_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_search_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_search_client_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_small_icons_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_user_male_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_cs_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Office-Client-Male-Light-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop-cart-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer-service-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_26px_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_26px_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_48px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_client_management_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_filter_24px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_identification_documents_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_32px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_32px_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_checkmark_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_price_32px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_accounting_32px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_user_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_refresh_30px.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
